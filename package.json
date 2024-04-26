@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "init": "^0.1.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "A demo restaurant website",
+  "main": "script.js",
+  "devDependencies": {
+    "file-loader": "^6.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Datamaverik/Restaurant-Page.git"
+  },
+  "author": "Datamaverik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Datamaverik/Restaurant-Page/issues"
+  },
+  "homepage": "https://github.com/Datamaverik/Restaurant-Page#readme"
+}
