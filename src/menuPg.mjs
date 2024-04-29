@@ -60,7 +60,7 @@ export function loadMenu(body) {
       menu.dish,
       menu.price,
       menu.desc,
-      "/assets/palak-paneer.jpg"
+      "/src/assets/palak-paneer.jpg"
     );
   });
 
